@@ -38,8 +38,47 @@ https://www.linkedin.com/in/baran-can-kulaz-91a1369a/
 -------------------------------------------------------------------------
 ## Previous Projects
 
-[![Tower Tactix](https://play-lh.googleusercontent.com/whsK5bpbkoqYpIgomaW8Zkd4g1zceGBPxs-B0Kr64EkEfY8lS8CAMgujf0GQi9lieXK2=s96)](https://play.google.com/store/apps/details?id=com.gamesunited.towertactix)
-[![Turc](https://play-lh.googleusercontent.com/Z7vuvy1e8qcUpskhaP5WGWX0qyGK1iIukDe99Mp5DPyqDbS3BNspG3kEcTZnuvcDMXk=w480-h960)](https://play.google.com/store/apps/details?id=com.GamesUnited.Turc)
+## Geliştirdiğim Oyunlar
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
+  <a href="https://play.google.com/store/apps/details?id=com.gamesunited.towertactix" style="text-decoration: none; text-align: center;">
+    <img src="https://play-lh.googleusercontent.com/whsK5bpbkoqYpIgomaW8Zkd4g1zceGBPxs-B0Kr64EkEfY8lS8CAMgujf0GQi9lieXK2=s96" alt="Tower Tactix" width="100" height="100">
+    <p>Tower Tactix</p>
+  </a>
+
+  <a href="https://play.google.com/store/apps/details?id=com.GamesUnited.Turc" style="text-decoration: none; text-align: center;">
+    <img src="https://play-lh.googleusercontent.com/Z7vuvy1e8qcUpskhaP5WGWX0qyGK1iIukDe99Mp5DPyqDbS3BNspG3kEcTZnuvcDMXk=w480-h960" alt="Turc" width="100" height="100">
+    <p>Turc</p>
+  </a>
+
+  <a href="https://play.google.com/store/apps/details?id=com.gamesunited.DefenseOfAlamos" style="text-decoration: none; text-align: center;">
+    <img src="https://play-lh.googleusercontent.com/enbAD2ury7MPECxQe43nApAhGg-4qkUyqf5cvy9jrycwDfSOVQjRpFyShzzNYpMQXnY=s96" alt="Defence Of Alamos" width="100" height="100">
+    <p>Defence Of Alamos</p>
+  </a>
+
+  <a href="https://play.google.com/store/apps/details?id=com.gamesunited.luckywarrior" style="text-decoration: none; text-align: center;">
+    <img src="https://play-lh.googleusercontent.com/gi4EKHo_ZZhNVCBrbWX71hZOfrFzilnlrWegkUXwOjG5r4cWVa51Ktr88AvkNoYhfN8=w480-h960" alt="Lucky Warrior" width="100" height="100">
+    <p>Lucky Warrior</p>
+  </a>
+
+  <a href="https://play.google.com/store/apps/details?id=com.QuickFingersGames.ColorfulSnake" style="text-decoration: none; text-align: center;">
+    <img src="https://play-lh.googleusercontent.com/Dfmtb9A52f6qdwuJq9M-9YcDN7eWY7nKRyV3keXj5ZfiCCvQkGvHKppjJfSUPP3BReM=w480-h960" alt="ColorFul Snakes" width="100" height="100">
+    <p>ColorFul Snakes</p>
+  </a>
+
+  <a href="https://play.google.com/store/apps/details?id=com.BigPogoGames.RoyalLegends" style="text-decoration: none; text-align: center;">
+    <img src="https://via.placeholder.com/100" alt="Royal Legends" width="100" height="100">
+    <p>Royal Legends</p>
+  </a>
+
+  <a href="https://play.google.com/store/apps/details?id=com.GamesUnited.Mergedpark" style="text-decoration: none; text-align: center;">
+    <img src="https://play-lh.googleusercontent.com/dVFyFwlEQpoqneXgcVjL8l7SRkMTqHIQyU80oH-xSQcz9msjrDf1JhDzD7FWyg3_ePo=s96" alt="MergePark" width="100" height="100">
+    <p>MergePark</p>
+  </a>
+
+</div>
+
 
 
 
