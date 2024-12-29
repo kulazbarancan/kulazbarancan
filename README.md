@@ -10,6 +10,11 @@ Currently, I work at Games United Ltd Sti. as a Senior Unity Developer.
 In this role, I'm handaling server-side requirements, web APIs, and implemented game logics for a multiplayer casual mobile games.
 
 In 2020, we founded BigPogo Games as a team of three and started working in the gaming industry for our own company. During this time, we developed 30+ hyper-casual games in collaboration with various publishers. This process lasted for about a year. At the end of the year, our company was acquired by Games United, and we joined the Games United family along with several other studios. Games United is an independent Digital Entertainment Content Factory with a distinct focus on mobile gaming. Founded in 2021 by experienced entrepreneurs, Games United secured $60M in investments from investors in January 2023.During my 4-year (and ongoing) journey with Games United, I have worked as a Lead Developer on 5 Hardcore | MidCore projects and several hyper-casual projects. I continue to contribute to our ongoing projects. Among these games, 4 were multiplayer titles, and I actively worked on their server, database, and game mechanics, leading and steering the projects. Additionally, I participated in product discussions on how to improve game mechanics and guided the art team in art optimization efforts.
+Of course, I can't share all the projects (especially hypercasual games, as you know, they can be quickly killed), but you can find the ones I've invested more effort in below.
+ColorFul Snakes was killed during soft launch with over 500k downloads and has remained stable. 
+MergePark is an ongoing project currently in the monetization phase. 
+DefenceOfAlamos has good data and will be a project to focus on moving forward.
+
 
 Before joining Games United, I worked at BigPogo Games for proximetly 1 year or over a bit. 
 
