@@ -1,4 +1,5 @@
 #About Myself 👋
+-----------------------
 
 My name is Baran Can Kulaz.
 
@@ -20,16 +21,18 @@ I've been developing mobile and console games professionally for over 7 years.
 
 This is a brief summary of my software journey so far.
 
+---------------------------------------------------------------------------
 Job 💼
 
 Senior Unity Developer
 
 I'm currently working at 🕹️
-
+https://www.linkedin.com/company/gamesunitedhq/
  
 I previously worked at🔭
+https://www.naturalmotion.com
+https://www.linkedin.com/company/42925245/admin/dashboard/
 
-       
 Contact Me 📫
 
 Linkedin Badge
