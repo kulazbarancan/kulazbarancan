@@ -35,6 +35,8 @@ I'm currently working at 🕹️
 https://www.linkedin.com/company/gamesunitedhq/
  
 I previously worked at🔭
+[![NaturelMotion](https://en.wikipedia.org/wiki/NaturalMotion#/media/File:NaturalMotion.svg)](https://www.naturalmotion.com)
+
 https://www.naturalmotion.com
 https://www.linkedin.com/company/42925245/admin/dashboard/
 
