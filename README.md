@@ -36,13 +36,11 @@ I'm currently working at 🕹️
 
  
 I previously worked at🔭
-[![BigPogoGames](https://media.licdn.com/dms/image/v2/D4D3DAQECuOrrazAWyA/image-scale_127_750/image-scale_127_750/0/1676270983118/bigpogo_cover?e=1736107200&v=beta&t=7rSpCwENh5mcvH26qo0ifhF575wGyBgvUokfRig2XGE)](https://www.linkedin.com/company/42925245/admin/dashboard/)
-[![NaturelMotion](https://en.wikipedia.org/wiki/NaturalMotion#/media/File:NaturalMotion.svg)](https://www.naturalmotion.com)
-
-
+BigPogoGames - https://www.linkedin.com/company/42925245/admin/dashboard/
+NaturelMotion - https://www.naturalmotion.com
 
 Contact Me 📫
-[![Linkedln](https://www.vecteezy.com/png/18930480-linkedin-logo-png-linkedin-icon-transparent-png)](https://www.linkedin.com/in/baran-can-kulaz-91a1369a/)
+<a href="https://www.linkedin.com/in/baran-can-kulaz-91a1369a/">Contact Me 📫</a>
 
 -------------------------------------------------------------------------
 ## Previous Projects
