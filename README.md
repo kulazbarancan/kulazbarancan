@@ -30,7 +30,7 @@ My career began at NaturelMation in England, where I worked for more than 2.5 ye
 
 Prior to this, I was developing Form Applications with C#. However, my journey into game development began in Brighton when I encountered an opportunity in this field. After finishing school, I had to return to my country due to certain reasons. However, after returning, I continued working remotely with the same company about 1.5 more years.
 
-Throughout my career, I have been working as a Senior Unity Developer with a primary focus on C#. But I also have extensive experience and knowledge in other areas such as JavaScript, SDK implementations, AR projects, Firebase (Auth, Realtime DB, Firestore, Analytics, etc.), Photon, DarkRift Networking, art optimizations, and PlayFab, having worked on numerous projects in these fields.
+Throughout my career, I have been working as a Senior Unity Developer with a primary focus on C#. But I also have extensive experience and knowledge in other areas such as JavaScript, SDK implementations, AR projects, Firebase (Auth, Realtime DB, Firestore, Analytics, etc.), Photon, DarkRift Networking, art optimizations, Unity DOTS and PlayFab, having worked on numerous projects in these fields.
 
 I've been developing mobile and console games professionally for over 7 years.
 
