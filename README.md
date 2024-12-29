@@ -32,16 +32,18 @@ Job 💼
 Senior Unity Developer
 
 I'm currently working at 🕹️
-https://www.linkedin.com/company/gamesunitedhq/
+[![Games United](https://media.licdn.com/dms/image/v2/C4D0BAQEHPVjwbq-F3g/company-logo_200_200/company-logo_200_200/0/1675716002899?e=1743638400&v=beta&t=pNGL9wZx7vGGpKh7c2yIN8czLDqdsce0FhXjFdZ03Gc)](https://www.linkedin.com/company/gamesunitedhq/)
+
  
 I previously worked at🔭
+[![BigPogoGames](https://media.licdn.com/dms/image/v2/D4D3DAQECuOrrazAWyA/image-scale_127_750/image-scale_127_750/0/1676270983118/bigpogo_cover?e=1736107200&v=beta&t=7rSpCwENh5mcvH26qo0ifhF575wGyBgvUokfRig2XGE)](https://www.linkedin.com/company/42925245/admin/dashboard/)
 [![NaturelMotion](https://en.wikipedia.org/wiki/NaturalMotion#/media/File:NaturalMotion.svg)](https://www.naturalmotion.com)
 
-https://www.naturalmotion.com
-https://www.linkedin.com/company/42925245/admin/dashboard/
+
 
 Contact Me 📫
-https://www.linkedin.com/in/baran-can-kulaz-91a1369a/
+[![Linkedln](https://www.vecteezy.com/png/18930480-linkedin-logo-png-linkedin-icon-transparent-png)](https://www.linkedin.com/in/baran-can-kulaz-91a1369a/)
+
 -------------------------------------------------------------------------
 ## Previous Projects
 
