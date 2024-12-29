@@ -36,8 +36,11 @@ https://www.linkedin.com/company/42925245/admin/dashboard/
 Contact Me 📫
 https://www.linkedin.com/in/baran-can-kulaz-91a1369a/
 -------------------------------------------------------------------------
-Previous Projects
-[!(https://play-lh.googleusercontent.com/whsK5bpbkoqYpIgomaW8Zkd4g1zceGBPxs-B0Kr64EkEfY8lS8CAMgujf0GQi9lieXK2=s96)](https://play.google.com/store/apps/details?id=com.gamesunited.towertactix)
+## Previous Projects
+
+[![Tower Tactix](https://play-lh.googleusercontent.com/whsK5bpbkoqYpIgomaW8Zkd4g1zceGBPxs-B0Kr64EkEfY8lS8CAMgujf0GQi9lieXK2=s96)](https://play.google.com/store/apps/details?id=com.gamesunited.towertactix)
+
+
 
 
 
