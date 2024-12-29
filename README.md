@@ -16,8 +16,11 @@ Among these games, 4 were multiplayer titles, and I actively worked on their ser
 
 Of course, I can't share all the projects (especially hypercasual games, as you know, they can be quickly killed), but you can find the ones I've invested more effort in below.
 ColorFul Snakes was killed during soft launch with over 500k downloads and has remained stable. 
+
 MergePark is an ongoing project currently in the monetization phase. 
+
 DefenceOfAlamos has good data and will be a project to focus on moving forward.
+
 
 
 Before joining Games United, I worked at BigPogo Games for proximetly 1 year or over a bit. 
