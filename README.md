@@ -39,6 +39,7 @@ https://www.linkedin.com/in/baran-can-kulaz-91a1369a/
 ## Previous Projects
 
 [![Tower Tactix](https://play-lh.googleusercontent.com/whsK5bpbkoqYpIgomaW8Zkd4g1zceGBPxs-B0Kr64EkEfY8lS8CAMgujf0GQi9lieXK2=s96)](https://play.google.com/store/apps/details?id=com.gamesunited.towertactix)
+[![Turc](https://play-lh.googleusercontent.com/Z7vuvy1e8qcUpskhaP5WGWX0qyGK1iIukDe99Mp5DPyqDbS3BNspG3kEcTZnuvcDMXk=w480-h960)](https://play.google.com/store/apps/details?id=com.GamesUnited.Turc)
 
 
 
