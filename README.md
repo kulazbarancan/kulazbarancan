@@ -38,9 +38,7 @@ https://www.linkedin.com/in/baran-can-kulaz-91a1369a/
 -------------------------------------------------------------------------
 ## Previous Projects
 
-## Geliştirdiğim Oyunlar
-
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
 
   <a href="https://play.google.com/store/apps/details?id=com.gamesunited.towertactix" style="text-decoration: none; text-align: center;">
     <img src="https://play-lh.googleusercontent.com/whsK5bpbkoqYpIgomaW8Zkd4g1zceGBPxs-B0Kr64EkEfY8lS8CAMgujf0GQi9lieXK2=s96" alt="Tower Tactix" width="100" height="100">
