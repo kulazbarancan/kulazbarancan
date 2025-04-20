@@ -46,11 +46,11 @@ Job 💼
 Senior Unity Developer
 
 I'm currently working at 🕹️
+[![Surpass Games](https://surpassgames.com)
+
+
+I previously worked at🔭
 [![Games United](https://media.licdn.com/dms/image/v2/C4D0BAQEHPVjwbq-F3g/company-logo_200_200/company-logo_200_200/0/1675716002899?e=1743638400&v=beta&t=pNGL9wZx7vGGpKh7c2yIN8czLDqdsce0FhXjFdZ03Gc)](https://www.linkedin.com/company/gamesunitedhq/)
-
-
-
-
  
 I previously worked at🔭
 BigPogoGames - https://www.linkedin.com/company/42925245/admin/dashboard/
