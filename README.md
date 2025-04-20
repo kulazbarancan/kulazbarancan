@@ -5,7 +5,11 @@ My name is Baran Can Kulaz.
 
 I graduated from the Arel University.
 
-Currently, I work at Games United Ltd Sti. as a Senior Unity Developer.
+Currently, I work at Surpass Games as Lead Game Developer
+
+We aim to improve both our team and ourselves, and to establish our place in the mobile gaming market through the games we create.
+
+I worked at Games United Ltd Sti. as a Senior Unity Developer.
 
 In this role, I'm handaling server-side requirements, web APIs, and implemented game logics for a multiplayer casual mobile games.
 
